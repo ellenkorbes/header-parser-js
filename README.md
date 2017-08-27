@@ -18,6 +18,6 @@ https://header-parser-js.glitch.me/
 {
     "ipaddress": "100.42.34.44",
     "language": "en-US",
-    "software": "X11; Linux x86_64"}
+    "software": "X11; Linux x86_64"
 }
 ```
